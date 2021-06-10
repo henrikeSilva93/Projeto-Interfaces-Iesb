@@ -1,0 +1,18 @@
+
+
+.box-shadow {
+    box-shadow: 5px 5px 5px rgba(0,0,0, 0.3);
+}
+
+.link-primary {
+    text-decoration: none;
+}
+
+.btn {
+    border-radius: 20px;
+    height: 50px;
+}
+.card {
+    padding: 20px;
+    box-sizing: border-box;
+}
